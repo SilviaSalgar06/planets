@@ -4,3 +4,4 @@ But the Mummy will appreciate the lack of humidity
 This is part of the learning process
 Added a new line about Mars being a planet.
 a new line in mars.txt about mars
+yet another line
